@@ -5,3 +5,5 @@ change 3-> git diff
 change 4-> change for diff 
 change 5-> skipping change
 change 6-> unstage the file
+Change 7-> Merging bugfix branch 
+	   last tutorial cwh
